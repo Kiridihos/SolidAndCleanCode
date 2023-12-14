@@ -16,3 +16,8 @@ yarn dev
 ó
 npm run dev
 ```
+
+La presentación del curso se encuentra en el archivo PDF
+```
+Presentaciones.pdf
+```
